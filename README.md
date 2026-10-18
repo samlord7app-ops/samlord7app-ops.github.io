@@ -36,6 +36,7 @@ Pharmacist & Healthcare Informatics Explorer 💊💻
 - **[cpoe-teaching-system](https://github.com/samlord7app-ops/cpoe-teaching-system)** - 電腦化醫囑系統 (CPOE) 教學與模擬工具
 - **[elder-medication-review](https://github.com/samlord7app-ops/elder-medication-review)** - 高齡者多重用藥整合與適當性評估介面
 - **[drug-info-agent](https://github.com/samlord7app-ops/drug-info-agent)** - 智慧藥物諮詢與資訊檢索 Agent
+- **[Power BI Studio App](https://samlord7app-ops.github.io/powerbi-studio-app/)** - 雲端與本機雙棲智慧儀表板自動生成系統
 
 
 ---
